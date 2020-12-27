@@ -7,6 +7,8 @@ Tenho 20 anos, atualmente moro em Vitoria de Santo Antão-PE. Um cara curioso em
 
 pois é, em mim sempre bate e é por isso que entrei nessa área a curiosidade que me move. Estou me formando em **Sistemas de Informação** na UNIFACOL.
 
+![](https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif)
+
 #### Quer saber mais sobre mim?
 
 [![Meu Github](https://camo.githubusercontent.com/b8077db3d588fd1a38c9db14b67c5ab699b6dce003526213e40291d502e71dba/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769746875622d3030303f7374796c653d666c61742d737175617265266c6f676f3d476974687562266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f6769746875622e636f6d2f6e61747967756c796173 "Meu Github")](http://github.com/Luandev12 "Meu Github")
