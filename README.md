@@ -17,10 +17,10 @@ pois é, em mim sempre bate e é por isso que entrei nessa área a curiosidade q
 [![Meu Email](https://camo.githubusercontent.com/e49b149af0ac4774cf481f204d586bdfaaa0b3a1d970bbc7f8034fbefb70ca50/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d6331343433383f7374796c653d666c61742d737175617265266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465266c696e6b3d6d61696c746f3a6e61746173686167756c79617340676d61696c2e636f6d "Meu Email")](mailto:luanvbn@gmail.com "Meu Email")
 
 <a href= "https://github.com/anuraghazra/github-readme-stats">
-  <img align = " center " src = "https://github-readme-stats.vercel.app/api?username=Luanvbn&show_icons=true&theme=blue-green" />
+  <img align = "center" src = "https://github-readme-stats.vercel.app/api?username=Luanvbn&show_icons=true&theme=blue-green" />
 </a>
 <a href= "https://github.com/anuraghazra/convoychat">
-  <img align = " center " src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Luanvbn&layout=compact&theme=blue-green" + "https://github.com/Luanvbn/github-readme-stats" />
+  <img align = "center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Luanvbn&layout=compact&theme=blue-green" + "https://github.com/Luanvbn/github-readme-stats" />
 </a>
 
 
