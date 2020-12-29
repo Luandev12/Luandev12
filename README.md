@@ -20,7 +20,7 @@ pois é, em mim sempre bate e é por isso que entrei nessa área a curiosidade q
   <img align = "center" src = "https://github-readme-stats.vercel.app/api?username=Luanvbn&show_icons=true&theme=blue-green" />
 </a>
 <a href= "https://github.com/anuraghazra/convoychat">
-  <img align = "center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Luanvbn&layout=compact&theme=blue-green" + "https://github.com/Luanvbn/github-readme-stats" />
+  <img align = "center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Luanvbn&layout=compact&theme=blue-green" + "https://github.com/Luanvbn/github-readme-stats"/>
 </a>
 
 
