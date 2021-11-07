@@ -5,7 +5,9 @@ Tenho 20 anos, atualmente moro em Vitoria de Santo Antão-PE. Um cara curioso em
 
 ***Como será que isso funciona?***  
 
-pois é, em mim sempre bate e é por isso que entrei nessa área a curiosidade que me move. Estou me formando em **Sistemas de Informação** na UNIFACOL.
+Estou me formando em **Sistemas de Informação** na UNIFACOL.
+
+"O limite é o céu."
 
 ![](https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif)
 
