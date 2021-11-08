@@ -1,15 +1,17 @@
-# Hello World!
+![](https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif)
 
 ## Olá, Meu nome é Luan.
-Tenho 20 anos, atualmente moro em Vitoria de Santo Antão-PE. Um cara curioso em tudo relacionado a tecnologia, nunca bateu em vocês aquela pergunta
 
-***Como será que isso funciona?***  
+* 🌐 TIC na Dtel Telecom
+* ☕ Estudando Java
+* 👨 Futuro Desenvolvedor Back-End
 
-Estou me formando em **Sistemas de Informação** na UNIFACOL.
-
-"O limite é o céu."
-
-![](https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif)
+<div style="display: inline_block"><br>
+  <img align="center" alt="Luan-Java" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Luan-Docker" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain-wordmark.svg">
+  <img align="center" alt="Luan-MySQL" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain-wordmark.svg">
+   <img align="center" alt="Luan-MySQL" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain-wordmark.svg">
+</div>
 
 #### Quer saber mais sobre mim?
 
@@ -25,5 +27,6 @@ Estou me formando em **Sistemas de Informação** na UNIFACOL.
   <img align = "center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Luanvbn&layout=compact&theme=blue-green" + "https://github.com/Luanvbn/github-readme-stats"/>
 </a>
 
+![](https://raw.githubusercontent.com/engenny/engenny/output/github-contribution-grid-snake.svg)
 
 
