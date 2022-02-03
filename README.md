@@ -1,5 +1,3 @@
-![](https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif)
-
 ## Olá, Meu nome é Luan.
 
 * 🌐 TIC na Dtel Telecom
