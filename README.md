@@ -1,7 +1,7 @@
 ## Olá, Meu nome é Luan.
 
 * 🌐 TIC na Dtel Telecom
-* ☕ Estudando Java
+* ☕ No momento estou estudando Java
 * 👨 Futuro Desenvolvedor Back-End
 
 <div style="display: inline_block"><br>
