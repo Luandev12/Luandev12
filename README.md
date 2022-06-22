@@ -5,9 +5,9 @@
 
 
 
-* 🌐 TIC na Dtel Telecom
+* 🌐 Desenvolvedor Trainee na UNISYS
 * ☕ No momento estou estudando Java
-* 👨 Futuro Desenvolvedor Back-End
+* 👨 Desenvolvedor Back-End
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Luan-Java" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
