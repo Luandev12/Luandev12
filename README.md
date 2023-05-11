@@ -6,7 +6,7 @@
 
 
 * 🌐 Desenvolvedor Trainee na UNISYS
-* ☕ No momento estou estudando Java
+* ☕ No momento estou estudando Angular
 * 👨 Desenvolvedor Back-End
 
 <div style="display: inline_block"><br>
